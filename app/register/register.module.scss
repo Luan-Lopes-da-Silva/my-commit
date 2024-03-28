@@ -1,0 +1,21 @@
+.form{
+    padding: 32px;
+
+    span{
+        display: block;
+        font-size: 0.625rem;
+        color: red;
+    }
+
+    input{
+        display: block;
+        margin-top: 4px;
+        margin-bottom: 30px;
+    }
+
+    button{
+        padding: 6px 32px;
+        text-transform: uppercase;
+        cursor: pointer;
+    }
+}
